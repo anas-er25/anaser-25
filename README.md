@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ER-RAKIBI Anas</h1>
 <h3 align="center">A Full stack web developper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-er25&label=Profile%20views&color=0e75b6&style=flat" alt="anas-er25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-er25" alt="anas-er25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/errakibi25" target="blank"><img src="https://img.shields.io/twitter/follow/errakibi25?logo=twitter&style=for-the-badge" alt="errakibi25" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**
 
 <h3 align="left">Connect with me:</h3>
